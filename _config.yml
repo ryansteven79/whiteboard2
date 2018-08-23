@@ -33,5 +33,5 @@ theme: whiteboard
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: heroku
-  repo: https://github.com/ryansteven79/whiteboard2.git
+  repo: https://dashboard.heroku.com/apps/whiteboard-wiki
   message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
